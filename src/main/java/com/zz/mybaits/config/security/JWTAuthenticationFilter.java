@@ -10,7 +10,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
-/** SpringBoot JWT 教程
+/**
  * https://auth0.com/blog/securing-spring-boot-with-jwts/
  */
 public class JWTAuthenticationFilter extends GenericFilterBean {
